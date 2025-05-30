@@ -52,7 +52,6 @@ src/
 - **App.vue** handles the event and dispatches a Vuex action  
 - **Vuex** fetches from GitHub API and saves results in `state`  
 - **RepoList.vue** gets data via `getters`, shows cards, and paginates  
-- **Footer.vue** listens to scroll and shows itself with a typewriter slogan when triggered  
 
 ---
 
