@@ -36,7 +36,7 @@ A responsive, animated Single Page Application (SPA) built with **Vue 3**, **Vue
 src/
 ├── assets/
 │ └── img/
-│ └── 3849223.png # Hacker illustration
+│ └── 3849223.png 
 ├── components/
 │ ├── SearchBar.vue # Input & Search button
 │ ├── RepoList.vue # Repository cards & pagination
