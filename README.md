@@ -7,7 +7,7 @@ A responsive, animated Single Page Application (SPA) built with **Vue 3**, **Vue
 
 ## 🚀 Live Demo
 
-> *(Optional: Deploy to Vercel or Netlify and paste link here)*
+👉 [Click here to view the live demo] (https://git-repo-search-co7whd2fo-abolfazl-khakbazs-projects.vercel.app)
 
 ---
 
@@ -32,6 +32,7 @@ A responsive, animated Single Page Application (SPA) built with **Vue 3**, **Vue
 ---
 
 ## 📁 Project Structure
+```bash
 src/
 ├── assets/
 │ └── img/
@@ -44,7 +45,7 @@ src/
 │ └── index.js # Vuex store
 ├── App.vue # Root component
 └── main.js # App entry point
-
+```
 ## 🧩 How It Works
 
 - **SearchBar.vue** emits a search term  
