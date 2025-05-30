@@ -17,8 +17,6 @@ A responsive, animated Single Page Application (SPA) built with **Vue 3**, **Vue
 - ⚡ Instant results using GitHub Search API  
 - 🔁 Pagination (Next/Prev with current page tracking)  
 - 🌙 Dark-themed UI with Bulma CSS  
-- 🔐 Hacker-style animated footer with typewriter effect  
-- 🖼️ Hacker image for cyber-inspired design  
 
 ---
 
