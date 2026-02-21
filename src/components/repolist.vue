@@ -33,7 +33,7 @@
                 <button class="button is-small is-link" @click="changePage(-1)" :disabled="page===1">
                     ⬅ Prev
                 </button>
-                 <span class="has-text-white mx-3">Page {{ page }}</span>
+                 <span class="has-text-white mx-3">Page: {{ page }}</span>
                 <button class="button is-small is-link" @click="changePage(1)">
                    Next ➡
                 </button>
