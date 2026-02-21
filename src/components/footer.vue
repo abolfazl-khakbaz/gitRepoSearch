@@ -26,7 +26,7 @@
 <script>
 import hackerImage from "../assets/img/3849223.png";
 export default {
-  name: "Footerr",
+  name: "Footer",
   data() {
     return {
       isVisible: false,
