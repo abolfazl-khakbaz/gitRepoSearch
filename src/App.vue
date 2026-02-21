@@ -13,19 +13,19 @@
     
 
 
-    <Footerr />
+    <Footer />
   </div>
 </template>
 <script>
 import SearchBar from "./components/searchbar.vue";
 import RepoList from "./components/repolist.vue";
-import Footerr from "./components/footer.vue";
+import Footer from "./components/footer.vue";
 export default {
   name: "App",
   components: {
     SearchBar,
     RepoList,
-    Footerr,
+    Footer,
   },
   data() {
     return {
